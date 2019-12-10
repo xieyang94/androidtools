@@ -18,6 +18,7 @@
 - [在Android原生工程中集成Flutter](/flutter/blog/在Android原生工程中集成Flutter.md)
 - [flutter_package](/flutter/blog/flutter_package.md)
 - [flutter_plugin](/flutter/blog/flutter_plugin.md)
+- [android_flutter](/flutter/blog/android_flutter.md)
 
 ---
 
