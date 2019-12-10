@@ -4,6 +4,6 @@ Android中引入Flutter作为module
 
 ```
 
-flutter_package.md
+https://github.com/xieyang94/android_flutter
 
 ```
