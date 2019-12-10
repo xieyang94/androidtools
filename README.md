@@ -12,7 +12,7 @@
 
 ## blog
 
-### ![Packages和插件开发](/flutter/Packages和插件开发.md)
+### [Packages和插件开发](/flutter/Packages和插件开发.md)
 ### 在Android原生工程中集成Flutter
 ### flutter_package
 ### flutter_pulgin
