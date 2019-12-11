@@ -19,6 +19,7 @@
 - [flutter_package](/flutter/blog/flutter_package.md)
 - [flutter_plugin](/flutter/blog/flutter_plugin.md)
 - [android_flutter](/flutter/blog/android_flutter.md)
+- [可以隐藏的布局](/flutter/blog/可以隐藏的布局.md)
 
 ---
 
