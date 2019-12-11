@@ -24,6 +24,11 @@
 - [Flutter创建列表List](/flutter/blog/Flutter创建列表List.md)
 - [Flutter手势](/flutter/blog/Flutter手势.md)
 - [flutter点击事件上浮状态下沉](/flutter/blog/flutter点击事件上浮状态下沉.md)
+- [flutter导航跳转Navigator](/flutter/blog/flutter导航跳转Navigator.md)
+- [flutter水波纹按钮](/flutter/blog/flutter水波纹按钮.md)
+- [flutter滑动删除](/flutter/blog/flutter滑动删除.md)
+- [flutter的widget点属性失效](/flutter/blog/flutter的widget点属性失效.md)
+- [flutter网络请求](/flutter/blog/flutter网络请求.md)
 
 ---
 
