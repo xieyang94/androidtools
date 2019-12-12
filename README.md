@@ -29,6 +29,13 @@
 - [flutter滑动删除](/flutter/blog/flutter滑动删除.md)
 - [flutter的widget点属性失效](/flutter/blog/flutter的widget点属性失效.md)
 - [flutter网络请求](/flutter/blog/flutter网络请求.md)
+- [flutter上拉加载下拉刷新](/flutter/blog/flutter上拉加载下拉刷新.md)
+- [flutter动画](/flutter/blog/flutter动画.md)
+- [flutter常用布局](/flutter/blog/flutter常用布局.md)
+- [flutter横纵布局Row和Column](/flutter/blog/flutter横纵布局Row和Column.md)
+- [flutter比率分配空间](/flutter/blog/flutter比率分配空间.md)
+- [flutter生命周期](/flutter/blog/flutter生命周期.md)
+- [flutter输入框](/flutter/blog/flutter输入框.md)
 
 ---
 
