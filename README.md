@@ -36,6 +36,7 @@
 - [flutter比率分配空间](/flutter/blog/flutter比率分配空间.md)
 - [flutter生命周期](/flutter/blog/flutter生命周期.md)
 - [flutter输入框](/flutter/blog/flutter输入框.md)
+- [flutter底部栏加各级页面布局](/flutter/blog/flutter底部栏加各级页面布局.md)
 
 ---
 
