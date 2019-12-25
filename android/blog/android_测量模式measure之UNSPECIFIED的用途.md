@@ -39,7 +39,7 @@ public class ScrollViewEditTextActivity extends Activity {
 
 事情并不是你想像的那样，为什么我给定高度不好使，TextView的高度为什么只有一行的高度
 
-![measure_UNSPECIFIED](/android/image/measure_UNSPECIFIED.png)
+![android_measure_UNSPECIFIED](/android/image/android_measure_UNSPECIFIED.png)
 
 
 ## 源码分析

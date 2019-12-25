@@ -15,7 +15,7 @@ MeasureSpec中三种模式：UNSPECIFIED，AT_MOST，EXACTLY
 
 可能有很多人想不通，一个int型整数怎么可以表示两个东西（大小模式和大小的值），一个int类型我们知道有32位。而模式有三种，要表示三种状 态，至少得2位二进制位。于是系统采用了最高的2位表示模式。如图：
 
-![measure](/android/image/measure.png)
+![android_measure](/android/image/android_measure.png)
 
 - 最高两位是00的时候表示”未指定模式”。即MeasureSpec.UNSPECIFIED
 - 最高两位是01的时候表示”’精确模式”。即MeasureSpec.EXACTLY
