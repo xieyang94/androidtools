@@ -1,5 +1,7 @@
 https://www.jianshu.com/p/776a0636dcb2
 
+# Android7.0以上Charles抓包及安装证书
+
 ### 1、给电脑安装证书
 
 首先在charles的 Help选项 选择 SSL Proxyings 选项 再选择 Install Charles Root Certificate 选项
