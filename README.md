@@ -11,6 +11,7 @@
 - [android_MeasureSpec中三种模式](/android/blog/android_MeasureSpec中三种模式.md)
 - [android_recyclerview_item是不同尺寸的图片要全部展示](/android/blog/android_recyclerview_item是不同尺寸的图片要全部展示.md)
 - [android_recyclerview_setHasFixedSize](/android/blog/android_recyclerview_setHasFixedSize.md)
+- [android_recyclerview的GridLayoutManager指定某个item单独占据多列](/android/blog/android_recyclerview的GridLayoutManager指定某个item单独占据多列.md)
 - [android_viewpager_fragment_recyclerview高度不同可滑动](/android/blog/android_viewpager_fragment_recyclerview高度不同可滑动.md)
 - [android_圆角布局Layout](/android/blog/android_圆角布局Layout.md)
 - [android_测量模式measure之UNSPECIFIED的用途](/android/blog/android_测量模式measure之UNSPECIFIED的用途.md)
